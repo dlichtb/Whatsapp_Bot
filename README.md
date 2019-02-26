@@ -2,6 +2,7 @@ whatshell
 ---------
 
 A PoC to demonstrate the practicality of using mobile instant messaging applications for a meterpreter like shell. This script is made using the Unix shell.
+
 Getting Started
 
 This script currently only targets WhatsApp for communication. This script can be run from the unix shell on any Android phone with WhatsApp installed. A server phone number must be established in the 'number' variable of a valid WhatsApp user to send commands from.
